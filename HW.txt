@@ -1,0 +1,31 @@
+● What is Emmet?
+	Emmet uses different abbreviations and short expressions depending on what's passed, and then dynamically converts the abbreviations into the full code. (Emmet is short abbreviations converted into full code).
+	By using shorthand and abbreviations, Emmet greatly improves and speeds up your HTML and CSS workflow.
+	
+● Difference between a Library and Framework?
+	The framework provides the flow of a software application and tells the developer what it needs and calls the code provided by the developer as required. If a library is used, the application calls the code from the library.
+	
+● What is CDN? Why do we use it?
+	A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.
+	The primary goal of a CDN is to improve web performance by reducing the time needed to send content and rich media to users.
+	
+● Why is React known as React?
+	React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes. Declarative views make your code more predictable and easier to debug.
+
+● What is crossorigin in script tag?
+	Cross-Origin Resource Sharing (CORS) is an HTTP-header based mechanism that allows a server to indicate any origins (domain, scheme, or port) other than its own from which a browser should permit loading resources.
+	
+● What is diference between React and ReactDOM?
+	React is core libaray of react and ReactDOM is the web version of react.(React is a JavaScript library for building User Interfaces and ReactDOM is the JavaScript library that allows React to interact with the DOM.)
+
+● What is difference between react.development.js and react.production.js files via CDN?
+	The difference is that production.js is more optimized as compared to developement.js.Code is same.(The development build is used - as the name suggests - for development reasons. The production build, on the other hand, runs in production mode which means this is the code running on your client's machine.)
+	
+● What is async and defer? - see my Youtube video ;)
+	In normal script tag- html parsing will be done and when script tag comes then it fetch froms the network and then excecutes it.
+	
+	With async tag--While html pasing is going on parallel script tag is fetched and when script tag comes it exceute it.
+	
+	With defer tag--While html paring is going on script tag is fetch and when html parsing is completed after that script tag is exceuted.
+	
+	IF We want to maintain the sequence then we should use defer.
